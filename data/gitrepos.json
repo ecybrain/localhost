@@ -1,0 +1,456 @@
+{
+	"name":"github",
+	"structure":[] {
+		{
+			"user":"jakejs", 
+			"repositories":[] {
+				{ "name":"jake", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"jake" }
+			},
+			"folder":"jakejs"
+		},
+		
+		{
+			"user":"zodiacon", 
+			"repositories":[] {
+				{ "name":"WindowsInternals", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"WindowsInternals" },
+				{ "name":"PEExplorer", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"PEExplorer" },
+				{ "name":"DriverMon", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"DriverMon" },
+				{ "name":"KernelExplorer", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"KernelExplorer" },
+				{ "name":"AllTools", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"AllTools" },
+				{ "name":"ProcMonX", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ProcMonX" }
+			},
+			"folder":"zodiacon"
+		},
+
+		{
+			"user":"docker", 
+			"repositories":[] {
+				{ "name":"docker-py", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"docker-py" },
+				{ "name":"docker-install", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"docker-install" },
+				{ "name":"go-docker", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"go-docker" },
+				{ "name":"go-redis-server", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"go-redis-server" }
+			},
+			"folder":"docker"
+		},
+
+		{
+			"user":"Microsoft", 
+			"repositories":[] {
+				{ "name":"caffe", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"caffe" },
+				{ "name":"core", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"core" },
+				{ "name":"dotnet", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"dotnet" },
+				{ "name":"docker", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"docker" },
+				{ "name":"vscode", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"vscode" },
+				{ "name":"TypeScript", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"TypeScript" },
+				{ "name":"Windows-driver-samples", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Windows-driver-samples" },
+				{ "name":"Windows-universal-samples", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Windows-universal-samples" },
+				{ "name":"Windows-classic-samples", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Windows-classic-samples" },
+				{ "name":"Windows-Driver-Frameworks", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Windows-Driver-Frameworks" },
+				{ "name":"dotnet-samples", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"dotnet-samples" },
+				{ "name":"referencesource", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"referencesource" },
+				{ "name":"testfx", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"testfx" },
+				{ "name":"vstest", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"vstest" },
+				{ "name":"winfile", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"winfile" },
+				{ "name":"pai", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"pai" },
+				{ "name":"vscode-vs-keybindings", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"vscode-vs-keybindings" },
+				{ "name":"sqltoolsservice", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"sqltoolsservice" },
+				{ "name":"vcpkg", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"vcpkg" },
+				{ "name":"botbuild-js", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"botbuild-js" },
+				{ "name":"GraphEngine", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"GraphEngine" },
+				{ "name":"Recognizers-Text", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Recognizers-Text" },
+				{ "name":"vs-boost-unit-test-adapter", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"vs-boost-unit-test-adapter" },
+				{ "name":"SCXcore", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"SCXcore" },
+				{ "name":"WinObjC", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"WinObjC" },
+				{ "name":"samples-for-ai", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"samples-for-ai" },
+				{ "name":"vs-threading", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"vs-threading" },
+				{ "name":"vscode-tools-for-ai", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"vscode-tools-for-ai" },
+				{ "name":"vs-tools-for-ai", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"vs-tools-for-ai" },
+				{ "name":"vscode-docker", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"vscode-docker" },
+				{ "name":"web-build-tools", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"web-build-tools" },
+				{ "name":"vscode-docker", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"vscode-docker" },
+				{ "name":"clarity-js", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"clarity-js" },
+				{ "name":"Windows-Time-Calibration-Tools", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Windows-Time-Calibration-Tools" },
+				{ "name":"napajs", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"napajs" },
+				{ "name":"mssql-jdbc", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"mssql-jdbc" },
+				{ "name":"Windows-Time-Calibration-Tools", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Windows-Time-Calibration-Tools" },
+				{ "name":"BotBuilder-Samples", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"BotBuilder-Samples" },
+				{ "name":"vscode-cpptools", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"vscode-cpptools" },
+				{ "name":"vscode-extension-samples", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"vscode-extension-samples" },
+				{ "name":"msbuild", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"msbuild" },
+				{ "name":"ntttcp-for-linux", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ntttcp-for-linux" },
+				{ "name":"java-debug", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"java-debug" },
+				{ "name":"Docker.DotNet", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Docker.DotNet" },
+				{ "name":"xunit-performance", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"xunit-performance" },
+				{ "name":"MIEngine", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"MIEngine" },
+				{ "name":"microsoft-r-open", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"microsoft-r-open" },
+				{ "name":"wcf-docker", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"wcf-docker" },
+				{ "name":"cpprestsdk", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"cpprestsdk" },
+				{ "name":"Git-Credential-Manager-for-Windows", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Git-Credential-Manager-for-Windows" },
+				{ "name":"monaco-editor", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"monaco-editor" },
+				{ "name":"WindowsProtocolTestSuites", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"WindowsProtocolTestSuites" },
+				{ "name":"SimpleRestClients", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"SimpleRestClients" },
+				{ "name":"DLWorkspace", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"DLWorkspace" },
+				{ "name":"ELL", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ELL" },
+				{ "name":"LUIS-Samples", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"LUIS-Samples" },
+				{ "name":"roosterjs", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"roosterjs" },
+				{ "name":"ModSecurity", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ModSecurity" },
+				{ "name":"NoSQLProvider", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"NoSQLProvider" },
+				{ "name":"ml-server-image-similarity", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ml-server-image-similarity" },
+				{ "name":"sql-server-samples", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"sql-server-samples" },
+				{ "name":"ML-Server", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ML-Server" },
+				{ "name":"krabsetw", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"krabsetw" },
+				{ "name":"Windows-Machine-Learning", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Windows-Machine-Learning" },
+				{ "name":"aspnet-docker", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"aspnet-docker" },
+				{ "name":"iis-docker", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"iis-docker" },
+				{ "name":"microsoft-r", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"microsoft-r" },
+				{ "name":"pmwcas", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"pmwcas" },
+				{ "name":"cci", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"cci" },
+				{ "name":"IIoT", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"IIoT" },
+				{ "name":"R-Interop", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"R-Interop" },
+				{ "name":"mssql-docker", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"mssql-docker" },
+				{ "name":"IIS.Administration", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"IIS.Administration" },
+				{ "name":"openssl", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"openssl" },
+				{ "name":"console", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"console" },
+				{ "name":"cppwinrt", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"cppwinrt" },
+				{ "name":"ghcrawler", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ghcrawler" },
+				{ "name":"Cognitive-Emotion-Windows", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Cognitive-Emotion-Windows" },
+				{ "name":"Cognitive-Common-Windows", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Cognitive-Common-Windows" },
+				{ "name":"Cognitive-CustomVision-Windows", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Cognitive-CustomVision-Windows" },
+				{ "name":"Cognitive-Face-Windows", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Cognitive-Face-Windows" },
+				{ "name":"Cognitive-Vision-Windows", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Cognitive-Vision-Windows" },
+				{ "name":"cognitive-services-notebooks", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"cognitive-services-notebooks" },
+				{ "name":"Cognitive-Recommendations-Windows", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Cognitive-Recommendations-Windows" },
+				{ "name":"Cognitive-Video-Windows", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Cognitive-Video-Windows" },
+				{ "name":"Cognitive-Vision-Python", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Cognitive-Vision-Python" },
+				{ "name":"Cognitive-Common-DotNetCore", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Cognitive-Common-DotNetCore" },
+				{ "name":"Cognitive-Emotion-DotNetCore", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Cognitive-Emotion-DotNetCore" },
+				{ "name":"Cognitive-Vision-DotNetCore", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Cognitive-Vision-DotNetCore" },
+				{ "name":"dotnet-core-sample-templates", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"dotnet-core-sample-templates" },
+				{ "name":"Cognitive-EventKnowledge-Windows", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Cognitive-EventKnowledge-Windows" },
+				{ "name":"Cognitive-Emotion-Python", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Cognitive-Emotion-Python" },
+				{ "name":"Cognitive-EntityLinking-Windows", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Cognitive-EntityLinking-Windows" },
+				{ "name":"hcsshim", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"hcsshim" },
+				{ "name":"mssql-server-ha", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"mssql-server-ha" },
+				{ "name":"RIoT", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"RIoT" },
+				{ "name":"ILMerge", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ILMerge" },
+				{ "name":"Win2D", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Win2D" },
+				{ "name":"microsoft-pdb", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"microsoft-pdb" },
+				{ "name":"WPF-Samples", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"WPF-Samples" },
+				{ "name":"knack", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"knack" },
+				{ "name":"EyeDrive", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"EyeDrive" },
+				{ "name":"pxt-gestures", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"pxt-gestures" },
+				{ "name":"envoy", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"envoy" },
+				{ "name":"DbgShell", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"DbgShell" },
+				{ "name":"CodeContracts", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"CodeContracts" },
+				{ "name":"SyncTasks", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"SyncTasks" },
+				{ "name":"Tx", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Tx" },
+				{ "name":"wcf-docker-samples", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"wcf-docker-samples" },
+				{ "name":"ProtocolTestFramework", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ProtocolTestFramework" },
+				{ "name":"node-native-watchdog", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"node-native-watchdog" },
+				{ "name":"node-diagnostic-channel", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"node-diagnostic-channel" },
+				{ "name":"XmlNotepad", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"XmlNotepad" },
+				{ "name":"spring-security", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"spring-security" },
+				{ "name":"node-native-keymap", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"node-native-keymap" },
+				{ "name":"dotnet-reliability", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"dotnet-reliability" },
+				{ "name":"IPC", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"IPC" },
+				{ "name":"TVHelpers", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"TVHelpers" },
+				{ "name":"ODBCTest", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ODBCTest" },
+				{ "name":"llvm-1", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"llvm-1" },
+				{ "name":"orca", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"orca" },
+				{ "name":"ELT", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ELT" },
+				{ "name":"VisualStudioUninstaller", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"VisualStudioUninstaller" },
+				{ "name":"NSPlist", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"NSPlist" },
+				{ "name":"X-Mem", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"X-Mem" },
+				{ "name":"WhoisParsers", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"WhoisParsers" },
+				{ "name":"clr-samples", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"clr-samples" },
+				{ "name":"graphics-driver-samples", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"graphics-driver-samples" },
+				{ "name":"UDE", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"UDE" },
+				{ "name":"node-fast-plist", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"node-fast-plist" },
+				{ "name":"sample-code", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"sample-code" },
+				{ "name":"sqlite-tracer", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"sqlite-tracer" },
+				{ "name":"spark", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"spark" },
+				{ "name":"node-windows-mutex", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"node-windows-mutex" },
+				{ "name":"run-in-terminal", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"run-in-terminal" },
+				{ "name":"shelljs", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"shelljs" },
+				{ "name":"MetricSystem", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"MetricSystem" },
+				{ "name":"driver-utilities", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"driver-utilities" },
+				{ "name":"Lumia-imaging-sdk", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Lumia-imaging-sdk" },
+				{ "name":"PlistCpp", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"PlistCpp" },
+				{ "name":"compiler-tests", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"compiler-tests" },
+				{ "name":"unittest-cpp", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"unittest-cpp" },
+				{ "name":"test-suite", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"test-suite" },
+				{ "name":"ConnectedServicesSdkSamples", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ConnectedServicesSdkSamples" }
+				{ "name":"WinAppDriver", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"WinAppDriver" }
+			},
+			"folder":"Microsoft"
+		},
+
+		{
+			"user":"MicrosoftDocs", 
+			"repositories":[] {
+				{ "name":"windows-uwp", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"windows-uwp" }
+			},
+			"folder":"MicrosoftDocs"
+		},
+
+		{
+			"user":"reactos", 
+			"repositories":[] {
+				{ "name":"reactos", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"reactos" }
+			},
+			"folder":"reactos"
+		},
+
+		{
+			"user":"abatchy17", 
+			"repositories":[] {
+				{ "name":"WindowsExploits", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"WindowsExploits" }
+			},
+			"folder":"abatchy17"
+		},
+
+		{
+			"user":"Hack-with-Github", 
+			"repositories":[] {
+				{ "name":"Windows", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Windows" }
+			},
+			"folder":"Hack-with-Github"
+		},
+
+		{
+			"user":"Squirrel", 
+			"repositories":[] {
+				{ "name":"Squirrel.Windows", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Squirrel.Windows" }
+			},
+			"folder":"Squirrel"
+		},
+
+		{
+			"user":"SecWiki", 
+			"repositories":[] {
+				{ "name":"sec-chart", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"sec-chart" },
+				{ "name":"windows-kernel-exploits", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"windows-kernel-exploits" },
+				{ "name":"linux-kernel-exploits", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"linux-kernel-exploits" },
+				{ "name":"CMS-Hunter", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"CMS-Hunter" }
+			},
+			"folder":"SecWiki"
+		},
+
+		{
+			"user":"pauldotknopf", 
+			"repositories":[] {
+				{ "name":"WindowsSDK7-Samples", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"WindowsSDK7-Samples" },
+				{ "name":"JavaScriptViewEngine", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"JavaScriptViewEngine" }
+			},
+			"folder":"pauldotknopf"
+		},
+
+		{
+			"user":"enddo", 
+			"repositories":[] {
+				{ "name":"HatDBG", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"HatDBG" },
+				{ "name":"awesome-windows-exploitation", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"awesome-windows-exploitation" }
+			},
+			"folder":"enddo"
+		},
+
+		{
+			"user":"x64dbg", 
+			"repositories":[] {
+				{ "name":"x64dbg", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"x64dbg" },
+				{ "name":"x64dbgpy", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"x64dbgpy" },
+				{ "name":"PluginTemplate", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"PluginTemplate" }
+			},
+			"folder":"x64dbg"
+		},
+
+		{
+			"user":"DarthTon", 
+			"repositories":[] {
+				{ "name":"Blackbone", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Blackbone" }
+			},
+			"folder":"DarthTon"
+		},
+
+		{
+			"user":"GDSSecurity", 
+			"repositories":[] {
+				{ "name":"Windows-Exploit-Suggester", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Windows-Exploit-Suggester" }
+			},
+			"folder":"GDSSecurity"
+		},
+
+		{
+			"user":"Cr4sh", 
+			"repositories":[] {
+				{ "name":"WindowsRegistryRootkit", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"WindowsRegistryRootkit" }
+			},
+			"folder":"Cr4sh"
+		},
+
+		{
+			"user":"LazoCoder", 
+			"repositories":[] {
+				{ "name":"Windows-Hacks", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Windows-Hacks" },
+				{ "name":"WinAPI-Wrapper", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"WinAPI-Wrapper" },
+				{ "name":"Article-Summarizer", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Article-Summarizer" },
+				{ "name":"Image-To-ASCII", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Image-To-ASCII" }
+			},
+			"folder":"LazoCoder"
+		},
+
+		{
+			"user":"hacksysteam", 
+			"repositories":[] {
+				{ "name":"HackSysExtremeVulnerableDriver", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"HackSysExtremeVulnerableDriver" },
+				{ "name":"WRK-1.2", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"WRK-1.2" },
+				{ "name":"ShellcodeOfDeath", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ShellcodeOfDeath" },
+				{ "name":"Exploitation", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Exploitation" },
+				{ "name":"ExploitReliabilityTestingSystem", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ExploitReliabilityTestingSystem" }
+			},
+			"folder":"hacksysteam"
+		},
+
+		{
+			"user":"lxn", 
+			"repositories":[] {
+				{ "name":"walk", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"walk" }
+			},
+			"folder":"lxn"
+		},
+
+		{
+			"user":"EasyHook", 
+			"repositories":[] {
+				{ "name":"EasyHook", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"EasyHook" }
+			},
+			"folder":"EasyHook"
+		},
+
+		{
+			"user":"PaulSec", 
+			"repositories":[] {
+				{ "name":"awesome-windows-domain-hardening", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"awesome-windows-domain-hardening" },
+				{ "name":"awesome-sec-talks", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"awesome-sec-talks" },
+				{ "name":"crt.sh", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"crt.sh" },
+				{ "name":"API-dnsdumpster.com", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"API-dnsdumpster.com" },
+			},
+			"folder":"PaulSec"
+		},
+
+		{
+			"user":"iadgov", 
+			"repositories":[] {
+				{ "name":"Secure-Host-Baseline", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Secure-Host-Baseline" }
+			},
+			"folder":"iadgov"
+		},
+
+		{
+			"user":"mauri870", 
+			"repositories":[] {
+				{ "name":"ransomware", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ransomware" },
+				{ "name":"powershell-reverse-http", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"powershell-reverse-http" },
+				{ "name":"linux-insides", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"linux-insides" }
+			},
+			"folder":"mauri870"
+		},
+
+		{
+			"user":"artesaos", 
+			"repositories":[] {
+				{ "name":"defender", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"defender" }
+			},
+			"folder":"artesaos"
+		},
+
+		{
+			"user":"Maximus5", 
+			"repositories":[] {
+				{ "name":"ConEmu", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ConEmu" }
+			},
+			"folder":"Maximus5"
+		},
+
+		{
+			"user":"desowin", 
+			"repositories":[] {
+				{ "name":"usbpcap", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"usbpcap" }
+			},
+			"folder":"desowin"
+		},
+
+		{
+			"user":"Tencent", 
+			"repositories":[] {
+				{ "name":"xLua", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"xLua" },
+				{ "name":"wepy", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"wepy" },
+				{ "name":"Tars", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Tars" },
+				{ "name":"angel", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"angel" },
+				{ "name":"TSeer", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"TSeer" },
+				{ "name":"LKImageKit", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"LKImageKit" },
+				{ "name":"tinker", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"tinker" },
+				{ "name":"sqlcipher", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"sqlcipher" },
+				{ "name":"ncnn", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ncnn" },
+				{ "name":"phxrpc", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"phxrpc" },
+				{ "name":"rapidjson", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"rapidjson" },
+				{ "name":"libco", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"libco" },
+				{ "name":"libwxfreq", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"libwxfreq" },
+				{ "name":"Teaf", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Teaf" },
+				{ "name":"TscanCode", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"TscanCode" },
+				{ "name":"MSEC", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"MSEC" },
+				{ "name":"Pebble", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"Pebble" },
+				{ "name":"WeFlow", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"WeFlow" },
+				{ "name":"WeDemo", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"WeDemo" }
+			},
+			"folder":"Tencent"
+		},
+
+		{
+			"user":"WinRb", 
+			"repositories":[] {
+				{ "name":"winrm-elevated", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"winrm-elevated" },
+				{ "name":"rubyntlm", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"rubyntlm" },
+				{ "name":"winrm-cli", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"winrm-cli" },
+				{ "name":"winrm-fs", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"winrm-fs" },
+				{ "name":"WinRM", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"WinRM" },
+				{ "name":"autodiscover", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"autodiscover" }
+			},
+			"folder":"WinRb"
+		},
+
+		{
+			"user":"MyBatis", 
+			"repositories":[] {
+				{ "name":"spring", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"spring" },
+				{ "name":"mybatis", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"mybatis" },
+				{ "name":"mybatis-dynamic-sql", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"mybatis-dynamic-sql" },
+				{ "name":"generator", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"generator" },
+				{ "name":"migrations", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"migrations" },
+				{ "name":"ignite-cache", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ignite-cache" },
+				{ "name":"parent", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"parent" },
+				{ "name":"velocity-scripting", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"velocity-scripting" },
+				{ "name":"spring-boot-starter", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"spring-boot-starter" },
+				{ "name":"typehandlers-jsr310", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"typehandlers-jsr310" },
+				{ "name":"scala", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"scala" },
+				{ "name":"redis-cache", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"redis-cache" },
+				{ "name":"migrations-maven-plugin", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"migrations-maven-plugin" },
+				{ "name":"jpetstore", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"jpetstore" },
+				{ "name":"ibatis-spring", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ibatis-spring" },
+				{ "name":"guice", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"guice" },
+				{ "name":"projects-aggregator", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"projects-aggregator" },
+				{ "name":"memcached-cache", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"memcached-cache" },
+				{ "name":"couchbase-cache", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"couchbase-cache" },
+				{ "name":"freemarker-scripting", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"freemarker-scripting" },
+				{ "name":"ehcache-cache", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ehcache-cache" },
+				{ "name":"base-bundle-descriptor", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"base-bundle-descriptor" },
+				{ "name":"hazelcast-cache", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"hazelcast-cache" },
+				{ "name":"oscache-cache", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"oscache-cache" },
+				{ "name":"caffeine-cache", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"caffeine-cache" },
+				{ "name":"ibatis", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ibatis" },
+				{ "name":"ibatis2mybatis", "download":1, "downloaded":0, "missed":0, "deleted":0, "target":"study", "folder":"ibatis2mybatis" }
+			},
+			"folder":"MyBatis"
+		}
+	}
+}
